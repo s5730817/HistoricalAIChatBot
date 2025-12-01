@@ -10,6 +10,9 @@ lerna-debug.log*
 # Enviroment files
 *.env
 
+# Language normaliser
+language_normalizer/*
+
 node_modules
 dist
 dist-ssr
