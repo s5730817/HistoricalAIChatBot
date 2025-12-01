@@ -28,13 +28,6 @@ export default function Chat() {
 
     return (
     <>
-      <div className="card">
-        <div className='card-body'>
-          <a>Chat with Leo</a>
-          <a>About</a>
-        </div>
-      </div>
-      
       <ChatWindow messages={messages}/>
 
       <div className='card'>
